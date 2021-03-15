@@ -1,8 +1,11 @@
 import './App.css';
+import Navbar from "./components/Navbar";
+// import Intro from "./components/Intro";
 
 function App() {
   return (
-      <h1>Divya Makwana-18SOECE11030</h1>
+      <Navbar/>
+      // <Intro/>
   );
 }
 

@@ -16,16 +16,16 @@ const Navbar = () => {
                             <a class="nav-link js-scroll active" href="index.html">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link js-scroll" href="#about">About</a>
+                            <a class="nav-link js-scroll" href="#">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link js-scroll" href="#service">Services</a>
+                            <a class="nav-link js-scroll" href="#">Services</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link js-scroll" href="#work">Work</a>
+                            <a class="nav-link js-scroll" href="#">Work</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link js-scroll" href="#contact">Contact</a>
+                            <a class="nav-link js-scroll" href="#">Contact</a>
                         </li>
                     </ul>
                 </div>

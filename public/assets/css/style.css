@@ -81,6 +81,15 @@ a:hover {
   background-attachment: fixed;
   background-size: cover;
   background-position: center center;
+  background: url('../img/intro-bg.jpg');
+}
+
+.bg-image-counter{
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center center;
+  background: url('../img/counters-bg.jpg');
 }
 
 @media (max-width: 1024px) {

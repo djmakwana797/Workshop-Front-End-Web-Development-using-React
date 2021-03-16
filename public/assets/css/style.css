@@ -83,6 +83,13 @@ a:hover {
   background-position: center center;
   background: url('../img/intro-bg.jpg');
 }
+.bg-image .bg-overlay{
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center center;
+  background: url('../img/bg-overlay.jpg');
+}
 
 .bg-image-counter{
   background-repeat: no-repeat;
